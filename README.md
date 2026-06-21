@@ -1,6 +1,7 @@
-# ballxpit-save-converter
+# Ball X Pit Save Converter Tool
 
-Convert Game Pass / Nintendo Switch save files to Steam-compatible format for **BALL x PIT**.
+Script to Convert Game Pass / Nintendo Switch save files to Steam-compatible format for **BALL x PIT**.
+(Plus an utility to auto-press annoying gold button when picking up Fission)
 
 ## Requirements
 
